@@ -1,2 +1,2 @@
 # Pair-Game
-I tried creating a simple matching-pair game based on a tutorial on Coursera using Pygame
+I created a simple matching-pair game using Pygame based on a tutorial on Coursera 
