@@ -5,4 +5,4 @@ Tutorial can be found [here](https://www.coursera.org/projects/python-game)
 
 Here is a snippet of the final product, during playing time.
 
-![snippet](Att1)
+![snippet](https://github.com/Arina-W/Pair-Game/blob/master/other_assets/Att1.PNG)
